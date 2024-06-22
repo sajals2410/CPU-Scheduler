@@ -7,7 +7,7 @@ In this non-preemptive scheduling algorithm, processes are executed in the order
 
 
 2. Round Robin
-   This preemptive algorithm ensures minimal process starvation by executing processes in a round-robin fashion with a specified time quantum. After a process is executed for the given time quantum, it is preempted and the next process is executed.
+This preemptive algorithm ensures minimal process starvation by executing processes in a round-robin fashion with a specified time quantum. After a process is executed for the given time quantum, it is preempted and the next process is executed.
 
 
 3.Rate Monotonic Scheduling
